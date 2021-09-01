@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @inipunyacita
-- 👀 I’m interested in web technology that is web designing or web developing
+- 👀 I’m interested in web technology such as web designing and web developing
 - 🌱 I’m currently learning web front end programming language
 - 💞️ I’m looking to collaborate on web developing project
 - 📫 How to reach me contact@citananta.my.id
