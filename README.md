@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @inipunyacita
 - 👀 I’m interested in web technology such as web designing and web developing
-- 🌱 I’m currently learning web front end programming language
+- 🌱 I’m currently learning front end programming language especially in web development
 - 💞️ I’m looking to collaborate on web developing project
-- 📫 How to reach me contact@citananta.my.id
+- 📫 How to reach me citanantaindrawan@gmail.com
 
 <!---
 inipunyacita/inipunyacita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
